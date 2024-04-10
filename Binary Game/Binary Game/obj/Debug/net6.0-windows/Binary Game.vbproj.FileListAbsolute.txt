@@ -1,0 +1,23 @@
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\bin\Debug\net6.0-windows\Binary Game.exe
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\bin\Debug\net6.0-windows\Binary Game.deps.json
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\bin\Debug\net6.0-windows\Binary Game.runtimeconfig.json
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\bin\Debug\net6.0-windows\Binary Game.dll
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\bin\Debug\net6.0-windows\Binary Game.pdb
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.vbproj.AssemblyReference.cache
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form1.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form2.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.vbproj.GenerateResource.cache
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.AssemblyInfoInputs.cache
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.AssemblyInfo.vb
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.vbproj.CoreCompileInputs.cache
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.dll
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\ref\Binary Game.dll
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.pdb
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary Game.genruntimeconfig.cache
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form3.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form4.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form5.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form6.resources
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\refint\Binary Game.dll
+C:\Users\Harry\OneDrive\Documents\Visual Studio 2022\projects\Binary Game\Binary Game\obj\Debug\net6.0-windows\Binary_Game.Form7.resources
